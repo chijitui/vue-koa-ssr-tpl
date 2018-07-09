@@ -1,0 +1,24 @@
+{
+  "name": "vue-koa-ssr-tpl",
+  "version": "1.0.0",
+  "description": "基于vue和koa的ssr模板",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chijitui/vue-koa-ssr-tpl.git"
+  },
+  "keywords": [
+    "vue",
+    "koa",
+    "ssr"
+  ],
+  "author": "xiaozixiang <johnxiao675@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chijitui/vue-koa-ssr-tpl/issues"
+  },
+  "homepage": "https://github.com/chijitui/vue-koa-ssr-tpl#readme"
+}
